@@ -1,4 +1,5 @@
 ## Home Lab Setup
+![Lab Setup](lab-setup.jpg)
 
 ### Network Diagram
 
@@ -18,7 +19,7 @@ SaskTel Router (Home network - 192.X.X.X) -->
 -  Admin password: set
 
 ### Windows 7 Target Machine
-- HP Desktop
+- Lenovo ThinkCentre
 - Intel i5-4570 @ 3.20GHz
 - 4GB RAM
 - 500GB HDD (replaced failing drive)
