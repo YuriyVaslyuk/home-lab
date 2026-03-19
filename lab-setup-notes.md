@@ -56,7 +56,7 @@ Ran Nmap from Kali against LAB-WIN7 (192.168.XX.XX) and saw port 445 open. Fired
 
 Ran getuid and got NT AUTHORITY\SYSTEM  - full control of the machine. Executed calc.exe remotely and watched it pop up on the physical screen across the room. Same exploit I did on TryHackMe Blue room. These tangible results make me want to explore more, and also make me want to learn defensive security.
 
-Attack machine: Kali 2025.4 VM — 192.168.XX.XX
-Target: LAB-WIN7 Windows 7 SP1 — 192.168.XX.XX The IP addresses are all sequential, as I only have 3 devices on it at the moment of writing this.
+Attack machine: Kali 2025.4 VM - 192.168.XX.XX
+Target: LAB-WIN7 Windows 7 SP1 - 192.168.XX.XX The IP addresses are all sequential, as I only have 3 devices on it at the moment of writing this.
 Exploit: ms17_010_eternalblue
 Result: Meterpreter shell, NT AUTHORITY\SYSTEM
